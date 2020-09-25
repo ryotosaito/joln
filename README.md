@@ -1,2 +1,2 @@
 # joln
-Join lines with a specific delimiter
+Join lines with a specific separator
