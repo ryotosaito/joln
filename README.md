@@ -18,7 +18,7 @@ Output:
 
 ### Folding by specific number of columns
 ```bash
-$ yes 'hello world' | head -10 | joln -s ' ' -w 3
+$ yes 'hello world' | head -10 | joln -s '|' -w 3
 ```
 Output:
 ```
