@@ -1,7 +1,7 @@
 # joln
 Join lines with a specific separator
 
-## Installattion
+## Installation
 ```bash
 $ go get -u github.com/ryotosaito/joln
 ```
